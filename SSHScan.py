@@ -20,7 +20,7 @@ def retBanner(ip, port):
 
 ###------------------Scan Service ------------------###
 # Range default: 192.168.1.0/255 | ip ="xxx.xxx.xxx."
-# Port range: portList[port1,port2,port,3,portX]
+# Port range: portList[port1,port2,port3,..portX]
 
 def main():
 	portList = [22]
